@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ale809
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+ale809/ale809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+Hi good afternoon just to ask is someone can help me to come back to the road I have a month no working, I am talking about Doordash. Please
